@@ -6,73 +6,52 @@ status: PUBLIC
 listModel: '10'
 defaultModel: '11'
 attributes:
-  - code: date05
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Omnis tempora dolor aliquam in quo commodi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number06
+  - code: image05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext00
+  - code: three-state10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool11
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist02
-    value: null
-    values: {}
-    elements:
-      - code: monolist02
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist02
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-    compositeelements: []
-    listelements: {}
-  - code: composite08
+  - code: composite07
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite08-text
+      - code: composite07-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite08-boolean
+      - code: composite07-boolean
         value: null
         values:
-          en: composite08 boolean field
-          it: composite08 boolean field
+          en: composite07 boolean field
+          it: composite07 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: link10
+  - code: link09
     value: null
     values: {}
     elements: []
@@ -81,34 +60,21 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Animi laudantium mollitia officia est.</p>
+      en: <p>Omnis tempora dolor aliquam in quo commodi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text04
+  - code: text00
     value: null
     values:
-      en: <p>Animi laudantium mollitia officia est.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext09
-    value: null
-    values:
-      en: <p>Animi laudantium mollitia officia est.</p>
+      en: <p>Omnis tempora dolor aliquam in quo commodi.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Animi laudantium mollitia officia est.</p>
+      en: <p>Omnis tempora dolor aliquam in quo commodi.</p>
     elements: []
     compositeelements: []
     listelements: {}

@@ -6,85 +6,98 @@ status: PUBLIC
 listModel: '0'
 defaultModel: '1'
 attributes:
-  - code: longtext00
+  - code: body
     value: null
     values:
-      en: <p>Amet at aut.</p>
+      en: <p>Illo sequi earum omnis rerum ut ullam libero.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date06
+  - code: date09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image05
+  - code: bool11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext08
+  - code: link08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: composite07
-    value: null
-    values: {}
-    elements: []
-    compositeelements:
-      - code: composite07-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite07-boolean
-        value: null
-        values:
-          en: composite07 boolean field
-          it: composite07 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
-    listelements: {}
-  - code: checkbox04
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: title
+  - code: monotext01
     value: null
     values:
-      en: <p>Amet at aut.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext11
-    value: null
-    values:
-      en: <p>Amet at aut.</p>
+      en: <p>Illo sequi earum omnis rerum ut ullam libero.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Amet at aut.</p>
+      en: <p>Illo sequi earum omnis rerum ut ullam libero.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp02
+  - code: three-state03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite06
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite06-boolean
+        value: null
+        values:
+          en: composite06 boolean field
+          it: composite06 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Illo sequi earum omnis rerum ut ullam libero.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text07
+    value: null
+    values:
+      en: <p>Illo sequi earum omnis rerum ut ullam libero.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp05
     value: null
     values: {}
     elements: []
