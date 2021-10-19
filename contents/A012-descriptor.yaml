@@ -1,0 +1,114 @@
+id: 12
+typeCode: A01
+description: Content 102 description
+mainGroup: free
+status: PUBLIC
+listModel: '10'
+defaultModel: '11'
+attributes:
+  - code: date05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite08
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite08-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite08-boolean
+        value: null
+        values:
+          en: composite08 boolean field
+          it: composite08 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Delectus vero ut quia exercitationem ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text04
+    value: null
+    values:
+      en: <p>Delectus vero ut quia exercitationem ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Delectus vero ut quia exercitationem ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Delectus vero ut quia exercitationem ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,15 @@
+id: 23
+contentType: A02
+description: A02 - Text 1
+contentShape: |-
+  <div class="A02-container text1">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

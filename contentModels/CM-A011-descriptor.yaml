@@ -1,0 +1,15 @@
+id: 11
+contentType: A01
+description: A01 - Default
+contentShape: |-
+  <div class="A01-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

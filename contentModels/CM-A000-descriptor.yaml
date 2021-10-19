@@ -1,0 +1,15 @@
+id: 0
+contentType: A00
+description: A00 - List
+contentShape: |-
+  <div class="A00-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>
